@@ -67,36 +67,7 @@ To analyze automobile features and uncover the most influential factors affectin
 
 
 
-<<<<<<< HEAD
-=======
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-
-
-
->>>>>>> dc1e81e (Add LICENSE and update README)
 📎 Related Links
 Medium Blog Post (TBD)
 
 GitHub Repository - https://github.com/hnadigwe/Regonet-Insurance-EDA
-
-
-
-# 📎 Appendix A – Glossary of Terms
-## Term Definition
-### EDA (Exploratory Data Analysis) The initial process of analyzing datasets to summarize main characteristics using statistical graphics and plots.
-### Correlation A statistical measure that expresses the extent to which two variables are linearly related. Ranges from -1 to 1.
-### Heatmap A graphical representation of data where individual values are represented as colors. Used to show correlation matrices.
-### One-hot encoding A method of converting categorical variables into binary columns (0s and 1s).
-### Feature Engineering The process of creating new input features or modifying existing ones to improve model performance.
-### Underwriter A person or company that evaluates the risk of insuring a person or asset and establishes pricing.
-### Normalized Losses Adjusted loss values to a common scale, allowing for fairer comparisons across data points.
-### Risk-based pricing A pricing strategy where prices are based on the risk profile of the individual or asset.
-### Symboling A numerical representation of a car’s risk rating used in insurance pricing.
-### Premium The amount paid for insurance coverage.
-### Outlier A data point that differs significantly from other observations.
-### Scatterplot A type of plot used to show the relationship between two continuous variables.
-### GitHub A web-based platform used for version control and collaborative coding projects.
-### Medium A publishing platform often used for writing and sharing articles, particularly technical write-ups.¶
