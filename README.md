@@ -78,7 +78,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 >>>>>>> dc1e81e (Add LICENSE and update README)
 📎 Related Links
-Medium Blog Post (TBD)
+Medium Blog Post - https://medium.com/@helennellieadigwe/unlocking-auto-insurance-insights-a-data-driven-exploration-with-python-9689c063253f
+>>>>>>> 
 
 GitHub Repository - https://github.com/hnadigwe/Regonet-Insurance-EDA
 
